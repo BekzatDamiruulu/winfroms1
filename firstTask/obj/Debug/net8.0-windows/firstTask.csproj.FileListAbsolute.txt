@@ -1,0 +1,17 @@
+C:\Users\Desktop\source\repos\firstTask\firstTask\bin\Debug\net8.0-windows\firstTask.exe
+C:\Users\Desktop\source\repos\firstTask\firstTask\bin\Debug\net8.0-windows\firstTask.deps.json
+C:\Users\Desktop\source\repos\firstTask\firstTask\bin\Debug\net8.0-windows\firstTask.runtimeconfig.json
+C:\Users\Desktop\source\repos\firstTask\firstTask\bin\Debug\net8.0-windows\firstTask.dll
+C:\Users\Desktop\source\repos\firstTask\firstTask\bin\Debug\net8.0-windows\firstTask.pdb
+C:\Users\Desktop\source\repos\firstTask\firstTask\obj\Debug\net8.0-windows\firstTask.Form1.resources
+C:\Users\Desktop\source\repos\firstTask\firstTask\obj\Debug\net8.0-windows\firstTask.csproj.GenerateResource.cache
+C:\Users\Desktop\source\repos\firstTask\firstTask\obj\Debug\net8.0-windows\firstTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\source\repos\firstTask\firstTask\obj\Debug\net8.0-windows\firstTask.AssemblyInfoInputs.cache
+C:\Users\Desktop\source\repos\firstTask\firstTask\obj\Debug\net8.0-windows\firstTask.AssemblyInfo.cs
+C:\Users\Desktop\source\repos\firstTask\firstTask\obj\Debug\net8.0-windows\firstTask.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\firstTask\firstTask\obj\Debug\net8.0-windows\firstTask.dll
+C:\Users\Desktop\source\repos\firstTask\firstTask\obj\Debug\net8.0-windows\refint\firstTask.dll
+C:\Users\Desktop\source\repos\firstTask\firstTask\obj\Debug\net8.0-windows\firstTask.pdb
+C:\Users\Desktop\source\repos\firstTask\firstTask\obj\Debug\net8.0-windows\firstTask.genruntimeconfig.cache
+C:\Users\Desktop\source\repos\firstTask\firstTask\obj\Debug\net8.0-windows\ref\firstTask.dll
+C:\Users\Desktop\source\repos\firstTask\firstTask\obj\Debug\net8.0-windows\firstTask.Form2.resources
